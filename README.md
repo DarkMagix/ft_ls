@@ -1,0 +1,1 @@
+To run the project, type 'sh run.sh'. Then execute it with './a.out <directory>'
